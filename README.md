@@ -34,6 +34,13 @@
 - **Visualization:** [PIL (Pillow)](https://python-pillow.org/)
 - **Additional Libraries:** Requests, Python-Bidi, SciPy
 
+## 📦 Installation
+- Create a Virtual Environment
+- Install All Dependencies (you can find them inside requirements.txt)
+- Configure Azure OCR (Setup your API key and endpoint)
+
+## 🏃‍♂️ Usage
+run **main.py** then **add_missing_data.py** and finally **visualize.py**
 
 ## 📫 Contact
 For any inquiries or contributions, please contact me @ mmuflihofficial@gmail.com
