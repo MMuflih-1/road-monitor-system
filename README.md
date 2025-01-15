@@ -31,7 +31,7 @@
 - **Image Processing:** [OpenCV](https://opencv.org/)
 - **Data Handling:** [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/)
 - **Tracking:** [FilterPy](https://github.com/rlabbe/filterpy) (SORT Algorithm)
-- **Visualization:** [PIL (Pillow)](https://python-pillow.org/)
+- **Visualization:** [PIL (Pillow)]([https://python-pillow.org/](https://pypi.org/project/pillow/))
 - **Additional Libraries:** Requests, Python-Bidi, SciPy
 
 ## 📦 Installation
