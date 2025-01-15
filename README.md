@@ -26,7 +26,7 @@
 ## 🛠️ Technologies & Libraries
 
 - **Programming Language:** Python 3.9
-- **Object Detection:** [YOLOv8](https://github.com/ultralytics/yolov8) (Ultralytics)
+- **Object Detection:** [YOLOv8](https://github.com/ultralytics/) (Ultralytics)
 - **OCR:** [Azure Cognitive Services OCR](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/)
 - **Image Processing:** [OpenCV](https://opencv.org/)
 - **Data Handling:** [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/)
