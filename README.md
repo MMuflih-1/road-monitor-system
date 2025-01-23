@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Python Version](https://img.shields.io/badge/Python-3.9-blue.svg)
 
-![Road Monitor Banner](https://github.com/yourusername/road-monitor-system/blob/main/banner.png) 
+![Road Monitor Banner](https://prnt.sc/oSsdL_GNLVc9) 
 
 ## 📚 Overview
 
