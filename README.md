@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Python Version](https://img.shields.io/badge/Python-3.9-blue.svg)
 
-![Road Monitor Banner](https://prnt.sc/oSsdL_GNLVc9) 
+![Road Monitor Banner](https://ibb.co/98yDH4L) 
 
 ## 📚 Overview
 
@@ -31,7 +31,7 @@
 - **Image Processing:** [OpenCV](https://opencv.org/)
 - **Data Handling:** [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/)
 - **Tracking:** [FilterPy](https://github.com/rlabbe/filterpy) (SORT Algorithm)
-- **Additional Libraries:** Requests, Python-Bidi, SciPy
+- **Additional Libraries:** Requests, Python-Bidi, SciPy and more (check requirement.txt)
 
 ## 📦 Installation
 - Create a Virtual Environment
