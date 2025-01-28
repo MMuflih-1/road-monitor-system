@@ -8,7 +8,7 @@
 
 ## 📚 Overview
 
-**Road Monitor** is our graduation project developed under the supervision of **Dr. Bader Mohammed Albashar** at **Imam Mohammad Ibn Saud Islamic University**. This intelligent system is designed to detect large trucks and recognize their license plates in real-time, addressing the pressing issue of traffic congestion in Riyadh caused by unauthorized truck movements during restricted hours.
+**Road Monitor** is our graduation project developed under the supervision of **Dr. Bader Mohammed Albesher** at **Imam Mohammad Ibn Saud Islamic University**. This intelligent system is designed to detect large trucks and recognize their license plates in real-time, addressing the pressing issue of traffic congestion in Riyadh caused by unauthorized truck movements during restricted hours.
 
 ## 👥 Team
 
