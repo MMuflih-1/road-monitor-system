@@ -36,7 +36,7 @@
 
 ## 📦 Installation
 - Create a Virtual Environment
-- Install All Dependencies (you can find them inside requirements.txt)
+- Install All Dependencies (you can find them inside README.txt)
 - Configure Azure OCR (Setup your API key and endpoint)
 
 ## 🏃‍♂️ Usage
