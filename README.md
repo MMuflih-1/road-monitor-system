@@ -30,7 +30,7 @@
 - **Object Detection:** [YOLOv8](https://github.com/ultralytics/ultralytics) (Ultralytics)
 - **OCR:** [Azure Cognitive Services OCR](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/)
 - **Image Processing:** [OpenCV](https://opencv.org/)
-- **Data Handling:** [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/)
+- **Data Handling:** [NumPy](https://numpy.org/)
 - **Tracking:** [FilterPy](https://github.com/rlabbe/filterpy) (SORT Algorithm)
 - **Additional Libraries:** Requests, Python-Bidi, SciPy and more (check README.txt)
 
