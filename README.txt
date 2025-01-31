@@ -10,6 +10,7 @@ Required libraries:
     ratelimit
     torch
     scikit-image
+    pandas
 
 
 subscription_key aka API_KEY = "YOUR_API_KEY" inside util.py
